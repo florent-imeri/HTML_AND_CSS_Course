@@ -93,6 +93,14 @@ form {
     margin-top: 16px;
   }
   
+  /* Style the submit button */
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+  }
   
-  
+  input[type=submit]:hover {
+    opacity: 0.8;
+  }
 
